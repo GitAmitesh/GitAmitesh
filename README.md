@@ -1,6 +1,6 @@
 ## Hi there, I'm Amitesh Muduli! 👋🚀
 
-🌱 I'm a **Computer Science Engineer** graduate from **Silicon University, Bhubaneswar** with a passion for **Web Development, Android Development, and Machine Learning**. 
+🌱 I'm a **Computer Engineering** graduate from **Silicon University, Bhubaneswar** with a passion for **Web Development, Android Development, and Machine Learning**. 
 💞️ I love solving complex problems, building scalable applications, and learning new technologies! 💻✨
 
 ## 🛠️ Tech Stack & Tools:
